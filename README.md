@@ -22,6 +22,8 @@ Insights Generated
 - Payment distribution
 - Student payment status
 
+## Dash Board images 
+
 
 
 
