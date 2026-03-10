@@ -1,4 +1,4 @@
-# fee_management_report
+# Student_fee_management_report
 Developed a Power BI dashboard to visualize and analyze student fee collection data, including payment trends, fee distribution, and student-level records.
 Student Fee Collection Dashboard – Power BI
 
@@ -22,7 +22,7 @@ Insights Generated
 - Payment distribution
 - Student payment status
 
-## Dash Board images 
+
 
 
 
